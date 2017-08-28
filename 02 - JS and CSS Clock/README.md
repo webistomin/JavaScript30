@@ -1,3 +1,3 @@
 ## 02 - JS and CSS Clock
 
-<img src="picture/JavaScript-02.jpg">
+<img src="picture/JavaScript-02.png">
