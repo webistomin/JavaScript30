@@ -11,8 +11,8 @@ Original files from @wesbos and solutions can be found [here](https://github.com
 
 1. [x]  ~~JavaScript Drum Kit~~
 2. [x]  ~~JS + CSS Clock~~
-3. [ ]  CSS Variables
-4. [ ]  Array Cardio, Day 1
+3. [x]  ~~CSS Variables~~
+4. [x]  ~~Array Cardio, Day 1~~
 5. [ ]  Fle  Panel Gallery
 6. [ ]  Type Ahead
 7. [ ]  Array Cardio, Day 2
