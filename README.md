@@ -13,7 +13,7 @@ Original files from @wesbos and solutions can be found [here](https://github.com
 2. [x]  ~~JS + CSS Clock~~
 3. [x]  ~~CSS Variables~~
 4. [x]  ~~Array Cardio, Day 1~~
-5. [ ]  Fle  Panel Gallery
+5. [x]  ~~Flex  Panel Gallery~~
 6. [ ]  Type Ahead
 7. [ ]  Array Cardio, Day 2
 8. [ ]  Fun with HTML5 Canvas
