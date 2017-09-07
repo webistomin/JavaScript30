@@ -20,8 +20,8 @@ Original files from @wesbos and solutions can be found [here](https://github.com
 9. [x]  ~~Dev Tools Domination~~
 10. [x]  ~~Hold Shift and Check Checkboxes~~
 11. [x]  ~~Custom Video Player~~
-12. [x]  ~~Key Sequence Detection
-~~13. [ ]  Slide in on Scroll
+12. [x]  ~~Key Sequence Detection~~
+13. [ ]  Slide in on Scroll
 14. [ ]  JavaScript References vs. Copying
 15. [ ]  LocalStorage
 16. [ ]  Mouse Move Shadow
