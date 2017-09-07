@@ -1,3 +1,3 @@
-## 12 - Slide in on Scroll
+## 13 - Slide in on Scroll
 
-<img src="picture/JavaScript-13.png">
+<img src="pictures/JavaScript-13.png">
