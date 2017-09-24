@@ -24,18 +24,18 @@ Original files from @wesbos and solutions can be found [here](https://github.com
 13. [x]  ~~Slide in on Scroll~~
 14. [x]  ~~JavaScript References vs. Copying~~
 15. [x]  ~~LocalStorage~~
-16. [ ]  Mouse Move Shadow
-17. [ ]  Sort Without Articles
-18. [ ]  Adding Up Times with Reduce
-19. [ ]  Webcam Fun
-20. [ ]  Speech Detection
-21. [ ]  Geolocation
-22. [ ]  Follow Along Link Highlighter
-23. [ ]  Speech Synthesis
-24. [ ]  Sticky Nav
-25. [ ]  Event Capture, Propagation, Bubbling, and Once
-26. [ ]  Stripe Follow Along Nav
-27. [ ]  Click and Drag
-28. [ ]  Video Speed Controller
-29. [ ]  Countdown Timer
-30. [ ]  Whack A Mole
+16. [x]  ~~Mouse Move Shadow~~
+17. [x]  ~~Sort Without Articles~~
+18. [x]  ~~Adding Up Times with Reduce~~
+19. [x]  ~~Webcam Fun~~
+20. [x]  ~~Speech Detection~~
+21. [x]  ~~Geolocation~~
+22. [x] ~~Follow Along Link Highlighter~~
+23. [x]  ~~Speech Synthesis~~
+24. [x]  ~~Sticky Nav~~
+25. [x]  ~~Event Capture, Propagation, Bubbling, and Once~~
+26. [x]  ~~Stripe Follow Along Nav~~
+27. [x]  ~~Click and Drag~~
+28. [x]  ~~Video Speed Controller~~
+29. [x]  ~~Countdown Timer~~
+30. [x]  ~~Whack A Mole~~
